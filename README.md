@@ -1,6 +1,6 @@
 # NLW IA - Web
 
-Projeto front-end desenvolvido em React, utilizando Vite, TypeScript e TailwindCSS.
+Aplicação web para criação e visualização de salas (rooms), permitindo interação entre usuários. Consome uma API para listar e acessar detalhes das salas, gera respostas com IA a partir da transcrição de áudio, e possui interface responsiva com navegação SPA.
 
 ## Principais Bibliotecas
 
